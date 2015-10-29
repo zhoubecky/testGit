@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 business
 edit business on test branch
+=======
+edit business in master
+>>>>>>> cd9c04151e66335df1d3695dcb9ec346fad3bcb4
